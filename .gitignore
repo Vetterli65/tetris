@@ -1,0 +1,8 @@
+.vscode
+
+
+build-linux/*
+!build-linux/tetris
+
+build-windows/*
+!build-windows/tetris.exe
