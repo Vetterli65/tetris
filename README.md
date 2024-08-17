@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/abb93cd6-df3d-4c19-acf7-45b84f305a6c)
+
 # Tetris Project
 
 Tetris is a classic puzzle game where the player must arrange falling shapes, known as tetrominoes, to complete horizontal lines without any gaps. This project implements the Tetris game.
